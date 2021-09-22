@@ -1,0 +1,172 @@
+{
+  "videosData": [
+    {
+      "title": "Inhaled Steroids in Children: Clearing the Air",
+      "description": "In this video speaker discusses use of inhaled corticosteroids in pediatric asthma. The speakers also highlights the myths revolving around use of inhaled corticosteroids.",
+      "thumbnailUrl": "https://i.vimeocdn.com/video/485531636",
+      "tags": ["asthma", "tb", "copd"],
+      "videolink": "https://player.vimeo.com/video/103007490"
+    },
+    {
+      "title": "Current Scenario of Pulmonary Hypertension in India",
+      "description": "In this video speaker talks  about the pulmonary hypertension in Indian settings.  The speaker highlights prevalence, symptoms ,diagnosis , clinical practices and treatmemt options for  pulmonary hypertension in India .",
+      "thumbnailUrl": "https://i.vimeocdn.com/video/643184499",
+      "tags": ["tb", "cancer", "bp"],
+      "videolink": "https://player.vimeo.com/video/224187671"
+    },
+    {
+      "title": "Secrets of a Successful Asthma Practice",
+      "description": "In this expert talk , speaker shares the secrets of successful asthma practice.   Speaker highlights key points in  the managment of asthma patients.",
+      "thumbnailUrl": "https://i.vimeocdn.com/video/697799360",
+      "tags": ["asthma", "copd"],
+      "videolink": "https://player.vimeo.com/video/267309966"
+    },
+    {
+      "title": "Home Nebulization: Useful Alternative in COPD Drug Delivery",
+      "description": "In this video , speaker talks about the use of nebulizers in elderly populations with severe COPD. The speaker  briefly discusses  advantages and disadvantages of nebulizers in this population.",
+      "thumbnailUrl": "https://i.vimeocdn.com/video/868528442",
+      "tags": ["copd"],
+      "videolink": "https://player.vimeo.com/video/400209458"
+    },
+    {
+      "title": "Nebulized Antibiotics in Respiratory Tract Infections",
+      "description": "In this talk , the speaker discusses  use of inhaled antibiotics in repiratory tract infections. The speaker briefly touches on the topics like rationale to use inhaled antibiotics , available inhaled antibiotics , use of inhalers,  sideffects and emergence of resistance to antibiotics.",
+      "thumbnailUrl": "https://i.vimeocdn.com/video/710068374",
+      "tags": ["copd"],
+      "videolink": "https://player.vimeo.com/video/277327003"
+    },
+    {
+      "title": "Allergic Rhinitis and Asthma: One Airway, One Disease",
+      "description": "Asthma is one of the risk factors for allergic rhinitis. The speakers discusses the link between allergic rhinits and asthma and also the management of allergic rhinitis .",
+      "thumbnailUrl": "https://i.vimeocdn.com/video/514497209",
+      "tags": ["asthma"],
+      "videolink": "https://player.vimeo.com/video/117787021"
+    },
+    {
+      "title": "Respiratory Sounds",
+      "description": "In this expert view, speaker discusses  respiratory sounds and their diagnostic value. The speaker highlights the  basic concepts of respiratory sounds, their causes and serious signs  in differential diagnosis  of respiratory diseases.",
+      "thumbnailUrl": "https://i.vimeocdn.com/video/485531636",
+      "tags": ["bp"],
+      "videolink": "https://player.vimeo.com/video/103007490"
+    },
+    {
+      "title": "Nebulized Antibiotics in the Management of Bronchiectasis",
+      "description": "This expert talk video discusses management of bronchiectasis with recurrent infections and role of chronic suppressive therapy with macrolides/nebulized antibiotics.",
+      "thumbnailUrl": "https://i.vimeocdn.com/video/643184499",
+      "tags": ["bp"],
+      "videolink": "https://player.vimeo.com/video/224187671"
+    },
+    {
+      "title": "Differential Diagnosis of Cough",
+      "description": "Cough is one of  the most common symptom encountered in clinical practice. Listening carefully to the patient cough can help in differential diagnosis for the reason of cough.",
+      "thumbnailUrl": "https://i.vimeocdn.com/video/697799360",
+      "tags": ["cancer"],
+      "videolink": "https://player.vimeo.com/video/267309966"
+    },
+    {
+      "title": "Choosing the Right Patient for Biologic Therapy",
+      "description": "In this video , speaker provides insights on  choosing the right patient for biologic therapy in uncontrolled asthma. The  expert briefly discusses the predictors of response  of severe asthma patients to biologics.",
+      "thumbnailUrl": "https://i.vimeocdn.com/video/868528442",
+      "tags": ["heart"],
+      "videolink": "https://player.vimeo.com/video/400209458"
+    },
+    {
+      "title": "Choosing the Right Biologic in Severe Asthma",
+      "description": "The speaker discusses the role of different biologics in severe asthma.",
+      "thumbnailUrl": "https://i.vimeocdn.com/video/710068374",
+      "tags": ["heart", "bp"],
+      "videolink": "https://player.vimeo.com/video/277327003"
+    },
+    {
+      "title": "Switching to BAIs – Consider in Uncontrolled Asthma",
+      "description": "This video highlights the benefits of using breath actuated inhalers which help management and compliance in uncontrolled asthma.",
+      "thumbnailUrl": "https://i.vimeocdn.com/video/514497209",
+      "tags": ["diabetes", "asthma"],
+      "videolink": "https://player.vimeo.com/video/117787021"
+    },
+    {
+      "title": "Is Tissue Necessary to Diagnose Fibrotic ILD?",
+      "description": "This video discusses the role of HRCT in diagnosis of fibrosis in IPF.",
+      "thumbnailUrl": "https://i.vimeocdn.com/video/485531636",
+      "tags": ["asthma", "heart"],
+      "videolink": "https://player.vimeo.com/video/103007490"
+    },
+    {
+      "title": "PF ILD: Definition and Proportion among ILD",
+      "description": "Progressive fibrosing ILDs have been described in this video, highlighting the proportion of patients with different types of ILDs who develop PF phenotype.",
+      "thumbnailUrl": "https://i.vimeocdn.com/video/643184499",
+      "tags": ["heart", "bp", "asthma", "copd"],
+      "videolink": "https://player.vimeo.com/video/224187671"
+    },
+    {
+      "title": "Rationale and Role of Antifibrotics in PF ILD",
+      "description": "The speaker discusses the factors that reflect the progression of ILDs and prognosis of progressive fibrosing phenotype.",
+      "thumbnailUrl": "https://i.vimeocdn.com/video/697799360",
+      "tags": ["copd", "bp"],
+      "videolink": "https://player.vimeo.com/video/267309966"
+    },
+    {
+      "title": "Managing Acute Exacerbations in Adult OAD Patients",
+      "description": "The speaker expresses his views on nebulizers and pMDI with spacer in the current pandemic situation for better management of patients with OAD.",
+      "thumbnailUrl": "https://i.vimeocdn.com/video/868528442",
+      "tags": ["cancer", "copd"],
+      "videolink": "https://player.vimeo.com/video/400209458"
+    },
+    {
+      "title": "Does Every Child with Exacerbation Require a Nebulizer?",
+      "description": "The speaker shares his clinical perspectives regarding the management of acute asthma in children.",
+      "thumbnailUrl": "https://i.vimeocdn.com/video/710068374",
+      "tags": ["copd", "diabetes"],
+      "videolink": "https://player.vimeo.com/video/277327003"
+    },
+    {
+      "title": "Is pMDI+Spacer Equivalent to Nebulizer?",
+      "description": "The clinical outcomes of aerosol therapy through a nebulizer and pMDI + spacer have been discussed in this video.",
+      "thumbnailUrl": "https://i.vimeocdn.com/video/514497209",
+      "tags": ["cancer", "copd"],
+      "videolink": "https://player.vimeo.com/video/117787021"
+    },
+    {
+      "title": "Recommendations on Inhaler Devices to Reduce Infection Risk",
+      "description": "This video highlights the appropriate usage of inhaler devices to reduce the risk of infection in this current pandemic.",
+      "thumbnailUrl": "https://i.vimeocdn.com/video/485531636",
+      "tags": ["tb", "bp", "copd"],
+      "videolink": "https://player.vimeo.com/video/103007490"
+    },
+    {
+      "title": "Advantages of Practicing Telemedicine for The Doctor",
+      "description": "The speaker discusses the advantages of tele-consultation from the doctors' as well as patients' point of view.",
+      "thumbnailUrl": "https://i.vimeocdn.com/video/643184499",
+      "tags": ["tb", "heart", "cancer"],
+      "videolink": "https://player.vimeo.com/video/224187671"
+    },
+    {
+      "title": "Compliances to be Followed in A Telemedicine Practice",
+      "description": "This video provides guidance with respect to doctor and patient compliance issues that a doctor should keep in mind while practising telemedicine.",
+      "thumbnailUrl": "https://i.vimeocdn.com/video/697799360",
+      "tags": ["copd"],
+      "videolink": "https://player.vimeo.com/video/267309966"
+    },
+    {
+      "title": "Tips On Conducting An Efficient Telemedicine Consultation",
+      "description": "In this video the doctor discusses various jurisdiction issues in medico-legal cases arising out of a teleconsult.",
+      "thumbnailUrl": "https://i.vimeocdn.com/video/868528442",
+      "tags": ["bp"],
+      "videolink": "https://player.vimeo.com/video/400209458"
+    },
+    {
+      "title": "Managing Acute Asthma with pMDI + Spacer in Real Life",
+      "description": "All children presenting with acute wheezing episode should be essentially treated with inhalation therapy. This video talks about the benefits of pMDI with/without spacer and provides the current recommendation for using the same in children.",
+      "thumbnailUrl": "https://i.vimeocdn.com/video/710068374",
+      "tags": ["cancer"],
+      "videolink": "https://player.vimeo.com/video/277327003"
+    },
+    {
+      "title": "Clinical Considerations While Choosing ICS",
+      "description": "The doctor presents his views on various clinical characteristics/risks that should be considered while choosing an ICS while treating OAD.",
+      "thumbnailUrl": "https://i.vimeocdn.com/video/514497209",
+      "tags": ["tb"],
+      "videolink": "https://player.vimeo.com/video/117787021"
+    }
+  ]
+}
